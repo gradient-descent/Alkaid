@@ -1,0 +1,6 @@
+gensim
+numpy
+sklearn
+jieba
+tensorflow
+imblearn
